@@ -179,7 +179,7 @@ hr{
 /* home */
 .home {
     margin-top: 90px;
-    background: url('img/img1.webp');
+    background: url('img1.webp');
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -235,7 +235,7 @@ h3{
     margin: 25px 0;
     height: 350px;
     width: 100%;
-    background: url('img/img8.png');
+    background: url('img8.png');
     background-position: center;
     background-size: cover;
     padding: 10px 5%;
